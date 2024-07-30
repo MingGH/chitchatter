@@ -8,7 +8,7 @@ import { QueryParamKeys } from '../src/models/shell'
 import { isColorMode, UserSettings } from '../src/models/settings'
 import { iframeFeatureAllowList } from '../src/config/iframeFeatureAllowList'
 
-export const defaultRoot = 'https://chitchatter.im/'
+export const defaultRoot = 'https://chat.996.ninja/'
 
 // NOTE: This is a subset of standard iframe attributes:
 // https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe#attributes
